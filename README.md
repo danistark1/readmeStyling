@@ -1,5 +1,14 @@
 # readmeMarkdown
 
+ - [Links](#links "Links")
+ - [Index list](#index-list "Index list")
+ - [Bold](#bold "Bold")
+ - [Italic](#italic "Italic")
+ - [Images](#images "Images")
+ - [Images html](#images-html "Images html")
+ - [Formatting code](#formatting-code "Formatting code")
+ - [Expand](#expand "Expand")
+
 ### Links
 
 ![Google](https://www.google.com)
@@ -64,7 +73,9 @@
 
 Wrap your code in ex (json, php, html, css..)
 
-### Expand ▶️
+### Expand
+
+▶️
 
 You can add an expand by wrapping your text in 
 ```

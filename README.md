@@ -6,6 +6,7 @@
  - [Italic](#italic "Italic")
  - [Images](#images "Images")
  - [Images html](#images-html "Images html")
+ - [Tables](#tables "Tables")
  - [Formatting code](#formatting-code "Formatting code")
  - [Expand](#expand "Expand")
 
